@@ -6,66 +6,43 @@
       "items": [
         {
           "type": "doc",
-          "id": "overview/introduction",
+          "id": "documents/introduction",
           "label": "Introduction"
         },
         {
           "type": "doc",
-          "id": "overview/basic-features",
-          "label": "Basic features"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Getting started",
-      "items": [
+          "id": "documents/getting-started",
+          "label": "Getting Started"
+        }, 
         {
           "type": "doc",
-          "id": "getting-started/quickstart",
-          "label": "Quickstart"
+          "id": "documents/interface-overview",
+          "label": "Interface Overview"
         },
         {
           "type": "doc",
-          "id": "getting-started/set-up-your-first-project",
-          "label": "Set up your first project"
+          "id": "documents/key-features",
+          "label": "Key Features"
         },
         {
           "type": "doc",
-          "id": "getting-started/configuration",
-          "label": "Configuration"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Editing docs",
-      "items": [
-        {
-          "type": "doc",
-          "id": "editing-docs/manange-your-docs",
-          "label": "Manange your docs"
+          "id": "documents/advanced-functionality",
+          "label": "Advanced Functionality"
         },
         {
           "type": "doc",
-          "id": "editing-docs/docs-components",
-          "label": "Docs components"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Customizing",
-      "items": [
-        {
-          "type": "doc",
-          "id": "customizing/customize-with-json-file",
-          "label": "Customize with json file"
+          "id": "documents/tips-and-tricks",
+          "label": "Tips & Tricks"
         },
         {
           "type": "doc",
-          "id": "customizing/customize-through-platform",
-          "label": "Customize through platform"
+          "id": "documents/faq",
+          "label": "FAQ"
+        },
+        {
+          "type": "doc",
+          "id": "documents/conclusion",
+          "label": "Conclusion"
         }
       ]
     }
